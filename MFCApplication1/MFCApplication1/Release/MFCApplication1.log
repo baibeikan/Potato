@@ -1,0 +1,27 @@
+﻿  stdafx.cpp
+  Direct9Render.cpp
+Direct9Render.cpp(115): warning C4018: “<”: 有符号/无符号不匹配
+Direct9Render.cpp(262): warning C4018: “<”: 有符号/无符号不匹配
+  Direct9Texture.cpp
+  Direct9Tool.cpp
+  GameIdleStatus.cpp
+  GameLoadStatus.cpp
+GameStatus\GameLoadStatus.cpp(12): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+GameStatus\GameLoadStatus.cpp(81): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+GameStatus\GameLoadStatus.cpp(101): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+GameStatus\GameLoadStatus.cpp(105): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+GameStatus\GameLoadStatus.cpp(106): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  GameRunStatus.cpp
+GameStatus\GameRunStatus.cpp(97): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+GameStatus\GameRunStatus.cpp(101): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+GameStatus\GameRunStatus.cpp(102): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  GameSystem.cpp
+  MFCApplication1.cpp
+  MFCApplication1Dlg.cpp
+  shockwaveflash1.cpp
+  StatusDrive.cpp
+  正在生成代码
+  All 1020 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  MFCApplication1.vcxproj -> E:\Work\Work2018\Test\MFCApplication1\bin\MFCApplication1.exe
+  MFCApplication1.vcxproj -> E:\Work\Work2018\Test\MFCApplication1\bin\MFCApplication1.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  GameRunStatus.cpp
+e:\work\work2018\test\mfcapplication1\mfcapplication1\gamestatus\gamerunstatus.cpp(97): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\work\work2018\test\mfcapplication1\mfcapplication1\gamestatus\gamerunstatus.cpp(101): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\work\work2018\test\mfcapplication1\mfcapplication1\gamestatus\gamerunstatus.cpp(102): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  MFCApplication1.vcxproj -> E:\Work\Work2018\Test\MFCApplication1\bin\MFCApplication1d.exe
+  MFCApplication1.vcxproj -> E:\Work\Work2018\Test\MFCApplication1\bin\MFCApplication1d.pdb (Partial PDB)
